@@ -1,0 +1,13 @@
+/Users/nick/projects/nlargueze/docrs/target/debug/deps/tracing-951fb5e1e20d03b7.rmeta: /Users/nick/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.34/src/lib.rs /Users/nick/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.34/src/macros.rs /Users/nick/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.34/src/dispatcher.rs /Users/nick/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.34/src/field.rs /Users/nick/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.34/src/instrument.rs /Users/nick/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.34/src/level_filters.rs /Users/nick/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.34/src/span.rs /Users/nick/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.34/src/stdlib.rs /Users/nick/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.34/src/subscriber.rs
+
+/Users/nick/projects/nlargueze/docrs/target/debug/deps/tracing-951fb5e1e20d03b7.d: /Users/nick/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.34/src/lib.rs /Users/nick/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.34/src/macros.rs /Users/nick/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.34/src/dispatcher.rs /Users/nick/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.34/src/field.rs /Users/nick/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.34/src/instrument.rs /Users/nick/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.34/src/level_filters.rs /Users/nick/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.34/src/span.rs /Users/nick/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.34/src/stdlib.rs /Users/nick/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.34/src/subscriber.rs
+
+/Users/nick/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.34/src/lib.rs:
+/Users/nick/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.34/src/macros.rs:
+/Users/nick/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.34/src/dispatcher.rs:
+/Users/nick/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.34/src/field.rs:
+/Users/nick/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.34/src/instrument.rs:
+/Users/nick/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.34/src/level_filters.rs:
+/Users/nick/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.34/src/span.rs:
+/Users/nick/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.34/src/stdlib.rs:
+/Users/nick/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.34/src/subscriber.rs:

@@ -1,0 +1,12 @@
+/Users/nick/projects/nlargueze/docrs/target/debug/deps/libthiserror_impl-d1d2d76c7cd1de75.dylib: /Users/nick/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.31/src/lib.rs /Users/nick/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.31/src/ast.rs /Users/nick/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.31/src/attr.rs /Users/nick/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.31/src/expand.rs /Users/nick/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.31/src/fmt.rs /Users/nick/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.31/src/generics.rs /Users/nick/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.31/src/prop.rs /Users/nick/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.31/src/valid.rs
+
+/Users/nick/projects/nlargueze/docrs/target/debug/deps/thiserror_impl-d1d2d76c7cd1de75.d: /Users/nick/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.31/src/lib.rs /Users/nick/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.31/src/ast.rs /Users/nick/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.31/src/attr.rs /Users/nick/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.31/src/expand.rs /Users/nick/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.31/src/fmt.rs /Users/nick/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.31/src/generics.rs /Users/nick/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.31/src/prop.rs /Users/nick/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.31/src/valid.rs
+
+/Users/nick/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.31/src/lib.rs:
+/Users/nick/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.31/src/ast.rs:
+/Users/nick/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.31/src/attr.rs:
+/Users/nick/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.31/src/expand.rs:
+/Users/nick/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.31/src/fmt.rs:
+/Users/nick/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.31/src/generics.rs:
+/Users/nick/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.31/src/prop.rs:
+/Users/nick/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.31/src/valid.rs:

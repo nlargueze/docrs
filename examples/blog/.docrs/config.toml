@@ -1,0 +1,6 @@
+[template]
+name = "blog"
+
+[[index]]
+title = "Hello World"
+path = "./hello.md"

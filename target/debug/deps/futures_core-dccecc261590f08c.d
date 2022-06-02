@@ -1,0 +1,11 @@
+/Users/nick/projects/nlargueze/docrs/target/debug/deps/futures_core-dccecc261590f08c.rmeta: /Users/nick/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.21/src/lib.rs /Users/nick/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.21/src/future.rs /Users/nick/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.21/src/stream.rs /Users/nick/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.21/src/task/mod.rs /Users/nick/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.21/src/task/poll.rs /Users/nick/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.21/src/task/__internal/mod.rs /Users/nick/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.21/src/task/__internal/atomic_waker.rs
+
+/Users/nick/projects/nlargueze/docrs/target/debug/deps/futures_core-dccecc261590f08c.d: /Users/nick/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.21/src/lib.rs /Users/nick/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.21/src/future.rs /Users/nick/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.21/src/stream.rs /Users/nick/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.21/src/task/mod.rs /Users/nick/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.21/src/task/poll.rs /Users/nick/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.21/src/task/__internal/mod.rs /Users/nick/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.21/src/task/__internal/atomic_waker.rs
+
+/Users/nick/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.21/src/lib.rs:
+/Users/nick/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.21/src/future.rs:
+/Users/nick/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.21/src/stream.rs:
+/Users/nick/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.21/src/task/mod.rs:
+/Users/nick/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.21/src/task/poll.rs:
+/Users/nick/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.21/src/task/__internal/mod.rs:
+/Users/nick/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.21/src/task/__internal/atomic_waker.rs:

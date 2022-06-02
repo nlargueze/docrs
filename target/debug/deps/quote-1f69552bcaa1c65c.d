@@ -1,0 +1,13 @@
+/Users/nick/projects/nlargueze/docrs/target/debug/deps/quote-1f69552bcaa1c65c.rmeta: /Users/nick/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.18/src/lib.rs /Users/nick/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.18/src/ext.rs /Users/nick/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.18/src/format.rs /Users/nick/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.18/src/ident_fragment.rs /Users/nick/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.18/src/to_tokens.rs /Users/nick/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.18/src/runtime.rs /Users/nick/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.18/src/spanned.rs
+
+/Users/nick/projects/nlargueze/docrs/target/debug/deps/libquote-1f69552bcaa1c65c.rlib: /Users/nick/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.18/src/lib.rs /Users/nick/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.18/src/ext.rs /Users/nick/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.18/src/format.rs /Users/nick/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.18/src/ident_fragment.rs /Users/nick/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.18/src/to_tokens.rs /Users/nick/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.18/src/runtime.rs /Users/nick/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.18/src/spanned.rs
+
+/Users/nick/projects/nlargueze/docrs/target/debug/deps/quote-1f69552bcaa1c65c.d: /Users/nick/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.18/src/lib.rs /Users/nick/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.18/src/ext.rs /Users/nick/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.18/src/format.rs /Users/nick/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.18/src/ident_fragment.rs /Users/nick/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.18/src/to_tokens.rs /Users/nick/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.18/src/runtime.rs /Users/nick/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.18/src/spanned.rs
+
+/Users/nick/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.18/src/lib.rs:
+/Users/nick/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.18/src/ext.rs:
+/Users/nick/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.18/src/format.rs:
+/Users/nick/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.18/src/ident_fragment.rs:
+/Users/nick/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.18/src/to_tokens.rs:
+/Users/nick/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.18/src/runtime.rs:
+/Users/nick/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.18/src/spanned.rs:

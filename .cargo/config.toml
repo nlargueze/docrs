@@ -1,0 +1,2 @@
+[alias]
+docrs = "run --bin=docrs --"

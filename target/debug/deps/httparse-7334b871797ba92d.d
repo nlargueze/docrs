@@ -1,0 +1,12 @@
+/Users/nick/projects/nlargueze/docrs/target/debug/deps/httparse-7334b871797ba92d.rmeta: /Users/nick/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.7.1/src/lib.rs /Users/nick/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.7.1/src/iter.rs /Users/nick/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.7.1/src/macros.rs /Users/nick/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.7.1/src/simd/mod.rs /Users/nick/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.7.1/src/simd/sse42.rs /Users/nick/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.7.1/src/simd/avx2.rs
+
+/Users/nick/projects/nlargueze/docrs/target/debug/deps/libhttparse-7334b871797ba92d.rlib: /Users/nick/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.7.1/src/lib.rs /Users/nick/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.7.1/src/iter.rs /Users/nick/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.7.1/src/macros.rs /Users/nick/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.7.1/src/simd/mod.rs /Users/nick/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.7.1/src/simd/sse42.rs /Users/nick/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.7.1/src/simd/avx2.rs
+
+/Users/nick/projects/nlargueze/docrs/target/debug/deps/httparse-7334b871797ba92d.d: /Users/nick/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.7.1/src/lib.rs /Users/nick/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.7.1/src/iter.rs /Users/nick/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.7.1/src/macros.rs /Users/nick/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.7.1/src/simd/mod.rs /Users/nick/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.7.1/src/simd/sse42.rs /Users/nick/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.7.1/src/simd/avx2.rs
+
+/Users/nick/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.7.1/src/lib.rs:
+/Users/nick/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.7.1/src/iter.rs:
+/Users/nick/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.7.1/src/macros.rs:
+/Users/nick/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.7.1/src/simd/mod.rs:
+/Users/nick/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.7.1/src/simd/sse42.rs:
+/Users/nick/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.7.1/src/simd/avx2.rs:

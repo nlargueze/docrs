@@ -1,0 +1,15 @@
+/Users/nick/projects/nlargueze/docrs/target/debug/deps/anyhow-1cfa08800d6255c9.rmeta: /Users/nick/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.57/src/lib.rs /Users/nick/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.57/src/backtrace.rs /Users/nick/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.57/src/chain.rs /Users/nick/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.57/src/context.rs /Users/nick/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.57/src/ensure.rs /Users/nick/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.57/src/error.rs /Users/nick/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.57/src/fmt.rs /Users/nick/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.57/src/kind.rs /Users/nick/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.57/src/macros.rs /Users/nick/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.57/src/ptr.rs /Users/nick/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.57/src/wrapper.rs
+
+/Users/nick/projects/nlargueze/docrs/target/debug/deps/anyhow-1cfa08800d6255c9.d: /Users/nick/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.57/src/lib.rs /Users/nick/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.57/src/backtrace.rs /Users/nick/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.57/src/chain.rs /Users/nick/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.57/src/context.rs /Users/nick/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.57/src/ensure.rs /Users/nick/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.57/src/error.rs /Users/nick/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.57/src/fmt.rs /Users/nick/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.57/src/kind.rs /Users/nick/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.57/src/macros.rs /Users/nick/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.57/src/ptr.rs /Users/nick/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.57/src/wrapper.rs
+
+/Users/nick/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.57/src/lib.rs:
+/Users/nick/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.57/src/backtrace.rs:
+/Users/nick/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.57/src/chain.rs:
+/Users/nick/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.57/src/context.rs:
+/Users/nick/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.57/src/ensure.rs:
+/Users/nick/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.57/src/error.rs:
+/Users/nick/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.57/src/fmt.rs:
+/Users/nick/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.57/src/kind.rs:
+/Users/nick/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.57/src/macros.rs:
+/Users/nick/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.57/src/ptr.rs:
+/Users/nick/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.57/src/wrapper.rs:

@@ -1,0 +1,13 @@
+/Users/nick/projects/nlargueze/docrs/target/debug/deps/console-121d2451f8c0699b.rmeta: /Users/nick/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.0/src/lib.rs /Users/nick/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.0/src/common_term.rs /Users/nick/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.0/src/kb.rs /Users/nick/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.0/src/term.rs /Users/nick/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.0/src/unix_term.rs /Users/nick/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.0/src/utils.rs /Users/nick/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.0/src/ansi.rs
+
+/Users/nick/projects/nlargueze/docrs/target/debug/deps/libconsole-121d2451f8c0699b.rlib: /Users/nick/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.0/src/lib.rs /Users/nick/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.0/src/common_term.rs /Users/nick/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.0/src/kb.rs /Users/nick/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.0/src/term.rs /Users/nick/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.0/src/unix_term.rs /Users/nick/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.0/src/utils.rs /Users/nick/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.0/src/ansi.rs
+
+/Users/nick/projects/nlargueze/docrs/target/debug/deps/console-121d2451f8c0699b.d: /Users/nick/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.0/src/lib.rs /Users/nick/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.0/src/common_term.rs /Users/nick/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.0/src/kb.rs /Users/nick/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.0/src/term.rs /Users/nick/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.0/src/unix_term.rs /Users/nick/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.0/src/utils.rs /Users/nick/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.0/src/ansi.rs
+
+/Users/nick/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.0/src/lib.rs:
+/Users/nick/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.0/src/common_term.rs:
+/Users/nick/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.0/src/kb.rs:
+/Users/nick/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.0/src/term.rs:
+/Users/nick/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.0/src/unix_term.rs:
+/Users/nick/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.0/src/utils.rs:
+/Users/nick/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.0/src/ansi.rs:
